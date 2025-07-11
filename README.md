@@ -23,7 +23,7 @@ This notebook demonstrates:
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Tool        | Purpose                                  |
 |-------------|-------------------------------------------|
@@ -43,16 +43,6 @@ This notebook demonstrates:
 - Custom data preprocessing pipeline
 - Binary classification model
 - Test predictions on unseen files
-
----
-
-
-## Dataset Disclaimer
-
-⚠️ The audio files used in this notebook were too large to include directly in the GitHub repository or this workspace.
-
-- You can download the Capuchin Bird Calls dataset from **[Kaggle](https://www.kaggle.com/datasets/)**.
-- Make sure your local folder structure matches the expected `audio/` folder layout for the code to run correctly.
 
 ---
 
