@@ -46,6 +46,13 @@ This notebook demonstrates:
 
 ---
 
+![step 1](images/Screenshot%20(139).png)
+![step 2](images/Screenshot%20(140).png)
+![step 3](images/Screenshot%20(141).png)
+![step 4](images/Screenshot%20(142).png)
+
+---
+
 ## Future Improvements
 - Add multi-class classification (other bird species)
 - Improve robustness with data augumentation
